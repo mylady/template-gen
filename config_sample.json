@@ -1,0 +1,12 @@
+{
+    "ext":".go",
+    "place_holder":"{holder}",
+    "default_template":"",
+    "files":[
+        {
+            "template":"",
+            "replace":"",
+            "file_name":""
+        }
+    ]
+}
