@@ -1,11 +1,11 @@
 {
-    "ext":".go",
+    "extension":".go",
     "place_holder":"{holder}",
     "default_template":"",
     "files":[
         {
             "template":"",
-            "replace":"",
+            "replacer":"",
             "file_name":""
         }
     ]
