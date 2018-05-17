@@ -1,0 +1,11 @@
+{
+    "place_holder":"$HOLDER",
+    "default_template":"template",
+    "files":[
+        {
+            "template":"",
+            "replacer":"Hello",
+            "file_name":"hello.go"
+        }
+    ]
+}
